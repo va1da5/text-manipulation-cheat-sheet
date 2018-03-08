@@ -43,6 +43,7 @@ The following string is used for samples:
 * [BASE16](#BASE16)
 * [BASE32](#BASE32)
 * [BASE64](#BASE64)
+* [ASCII85](#ASCII85)
 * [BAUDOT-MURRAY-CODE](#BAUDOT-MURRAY-CODE)
 
 ***
@@ -253,6 +254,13 @@ V2hlbiBpbmZvcm1hdGlvbiBvdmVybG9hZCBvY2N1cnMsIHBhdHRlcm4gcmVjb2duaXNpb24gaXMgaG93
 ```
 * [Converter](https://v2.cryptii.com/text/base64)
 * [About](https://en.wikipedia.org/wiki/Base64)
+
+### <a name="ASCII85"></a>ASCII85
+```
+=(l/_+DG_*DfT]'FD5Z2+E)F7EboZ&A0>f#@s)g5/0Jn?FED)7DBNt2@rH!tBle!,DBNY7+D>\;+EVNEA7]joEc#N.AKZ)8F`_:L+>"^1@<-F&@;Ka&9k-k>BOPc
+```
+* [Converter](https://cryptii.com/ascii85-encoding)
+* [About](https://en.wikipedia.org/wiki/Ascii85)
 
 ### <a name="BAUDOT-MURRAY-CODE"></a>BAUDOT-MURRAY-CODE
 ```
